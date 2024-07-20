@@ -1,0 +1,5 @@
+Coke,		2000 Won
+Cider,		2000 Won
+Fanta,		2500 Won
+Miranda,		2500 Won
+Orange Juice,	3000 Won

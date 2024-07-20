@@ -1,0 +1,7 @@
+# Visual Studio Files
+.vs
+MFC_Window.sln
+x64
+KioskProgram/KioskProgram.vcxproj*
+KioskProgram/KioskProgram.aps
+KioskProgram/KioskProgram.rc

@@ -1,0 +1,4 @@
+Chicken+Chili,	20000 Won
+Pizza+Garlic,	17500 Won
+Pizza+Pasta,	24000 Won
+Hamburger Set,	11000 Won

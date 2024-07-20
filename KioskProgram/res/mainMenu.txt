@@ -1,0 +1,5 @@
+Chicken,	20000 Won
+Pizza,	17500 Won
+Hamburger,8000 Won
+Hotdog,	5500 Won
+Sandwich,	4000 Won

@@ -1,0 +1,6 @@
+Chili Sauce,	500 Won
+Garlic Sauce,	500 Won
+Spaghetti,		7500 Won
+French Fries,	2000 Won
+Cheeseball,	5000 Won
+Corn Salad,	1500 Won
